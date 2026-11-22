@@ -1,0 +1,8 @@
+rakuvo
+rakuvo.exe
+*.jsonl
+.env
+memory/
+*.db
+*.test
+dist/
